@@ -1,0 +1,59 @@
+.crypto-tax-calculator {
+    font-family: Arial, sans-serif;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #0052FE;
+  }
+  
+  .calculator-content {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .input-column, .results-column {
+    flex: 1;
+  }
+  
+  .input-group {
+    margin-bottom: 15px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input, select {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .results-column {
+    background-color: #F9F9F9;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .result-item {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+  
+  .highlight {
+    font-weight: bold;
+    color: #0052FE;
+  }
+  
+  .faq-section {
+    margin-top: 40px;
+  }
+  
+  /* Add more styles as needed to match the design */
