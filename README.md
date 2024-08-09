@@ -36,8 +36,7 @@ This is a simple cryptocurrency application built using React. The app allows us
 - Open your browser and navigate to `http://localhost:3000`.
 - Explore the cryptocurrency prices and trends.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.</br>
+</br>
 
 # Find Property on Rent App
 
@@ -79,6 +78,4 @@ This is a small web application to find rental properties. The app is built usin
 - Browse available rental properties.
 - Use the search and filter features to find the perfect property.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
